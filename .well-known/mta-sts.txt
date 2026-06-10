@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
-mx: mail.galvatoledo.es
+mode: none
+mx: galvatoledo-es.correoseguro.dinaserver.com
 max_age: 2592000
